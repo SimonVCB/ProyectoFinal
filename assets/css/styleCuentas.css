@@ -1,0 +1,40 @@
+html, body{
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+form > input{
+    
+    font-size: 2em;
+}
+
+.formularioAltaCuenta, .formularioCuentas {
+    background-color: rgb(250, 250, 250);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid rgba(126, 217, 87, 0.582);
+    border-radius: 1.5em;
+    box-shadow: 3px 3px 3px gray;
+}
+
+h4 {
+    font-size: 1.3em;
+}
+
+#logoPrincipal {
+    width: 10em;
+}
+
+
+
+
+
